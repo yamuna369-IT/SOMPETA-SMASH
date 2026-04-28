@@ -15,7 +15,7 @@ import { auth } from "./firebaseConfig";
 
 
 
-const ADMIN_PIN = "4598"; 
+const ADMIN_PIN = "xxxx"; 
 const COURTS = [1, 2, 3, 4];
 const TIME_SLOTS = [
   { id: "05:00", label: "5:00 AM", period: "morning" },
